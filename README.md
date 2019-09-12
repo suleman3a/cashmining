@@ -1,0 +1,2 @@
+# cashmining
+Btcmining
